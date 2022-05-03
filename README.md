@@ -1,3 +1,6 @@
+# Original project 
+  https://github.com/iliasam/uProbe/
+
 # uProbe
 Simple logic/oscilloscopic probe for electronic circuits in a highlighter case.  
 Article (in Russian) about it: https://radiokot.ru/artfiles/6639/  
