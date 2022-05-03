@@ -1,10 +1,8 @@
 # LogicProbe
-Simple logic/oscilloscopic probe for electronic circuits in a highlighter case.  
+Simple logic/oscilloscopic probe for electronic circuits 
 
 
-# Original project 
-  https://github.com/iliasam/uProbe/
-
+# Original project  https://github.com/iliasam/uProbe/
 
 
 Differences from the original in the firmware:
