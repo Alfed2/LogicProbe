@@ -1,18 +1,19 @@
+# LogicProbe
+Simple logic/oscilloscopic probe for electronic circuits in a highlighter case.  
+
+
 # Original project 
   https://github.com/iliasam/uProbe/
 
-# uProbe
-Simple logic/oscilloscopic probe for electronic circuits in a highlighter case.  
-Article (in Russian) about it: https://radiokot.ru/artfiles/6639/  
+
+
+Differences from the original in the firmware:
+- added charging status message
+- UART speed measurement removed
   
-**See Wiki:** https://github.com/iliasam/uProbe/wiki  for more information.   
+<img src="https://github.com/alfed2/LogicProbe/blob/master/Photos/P_20220503_230956.jpg" width="700">  
   
-**See this video:** https://youtu.be/MtbWYYT8b84
+<img src="https://github.com/alfed2/LogicProbe/blob/master/Photos/P_20220503_231041.jpg" width="700">  
   
-<img src="https://github.com/iliasam/uProbe/blob/master/Photos/Photo1.jpg" width="700">  
+<img src="https://github.com/alfed2/LogicProbe/blob/master/Photos/P_20220503_231123.jpg" width="700">  
   
-<img src="https://github.com/iliasam/uProbe/blob/master/Photos/Photo2.jpg" width="700">  
-  
-<img src="https://github.com/iliasam/uProbe/blob/master/Photos/Photo3.jpg" width="700">  
-  
-<img src="https://github.com/iliasam/uProbe/blob/master/Photos/Photo4.JPG" width="700">  
